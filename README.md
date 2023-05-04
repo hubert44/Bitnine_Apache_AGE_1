@@ -6,3 +6,4 @@ The main function creates the expression tree for the given arithmetic operation
 
 To compile and run the code, pull this repo. Then compile the fibonacci file using a C compiler such as gcc.
 By running in bash or terminal in the directory it is saved : gcc -o fibonacci.c
+Then run the file executable by running ./{name of folder saved in}
