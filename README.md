@@ -5,5 +5,5 @@ The "makeNode" function creates a new node with the given type, value, left and 
 The main function creates the expression tree for the given arithmetic operations and conditions, and evaluates them using the calc function. It then calculates the fibonacci sequence based on the result of the fiboNode expression tree.
 
 To compile and run the code, pull this repo. Then compile the fibonacci file using a C compiler such as gcc.
-By running in bash or terminal in the directory it is saved : gcc -o fibonacci.c
+By running in bash or terminal in the directory it is saved : gcc -o {name of folder saved in} fibonacci.c
 Then run the file executable by running ./{name of folder saved in}
